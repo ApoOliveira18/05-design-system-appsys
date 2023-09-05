@@ -1,0 +1,4 @@
+{
+  "extends": "@appsistems-ui/ts-config/base.json",
+  "include": ["src"]
+}
