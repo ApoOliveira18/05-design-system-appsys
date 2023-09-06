@@ -9,5 +9,8 @@
   },
   "devDependencies": {
     "turbo": "^1.5.5"
+  },
+  "dependencies": {
+    "gh": "^2.8.9"
   }
 }
